@@ -10,6 +10,7 @@ RUN			["pacman", "--sync", "--refresh", "--sysupgrade", "--noconfirm", \
 				"cmake", \
 				"git", \
 				"git-lfs", \
+				"inetutils", \
 				"less", \
 				"libusb", \
 				"libusb-compat", \
